@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Added
+- Explicitely check for `static` for multi-language sites.
+
+
 ## [0.2.9] - 17 August 2021
 ### Fixed
 - Fatal Error on swatches AJAX call
